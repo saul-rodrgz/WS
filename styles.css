@@ -171,13 +171,16 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .sbul-white,.sbul-hover-white:hover{color:#000!important;background-color:#fff!important}
 .sbul-black,.sbul-hover-black:hover{color:#fff!important;background-color:#000!important}
 
-.sbul-light-brown,.sbul-hover-light-brown:hover{color:#fff!important;background-color:#E8DFC7!important}
+.sbul-light-brown,.sbul-hover-light-brown:hover{color:#000!important;background-color:#E8DFC7!important}
 .sbul-light-chocolate,.sbul-light-chocolate:hover{color:#fff!important;background-color:#BFA898!important}
 .sbul-strong-red,.sbul-hover-strong-red:hover{color:#fff!important;background-color:#9B4447!important}
 .sbul-faded-black,.sbul-hover-faded-black:hover{color:#fff!important;background-color:#3D484B!important}
-.sbul-light-avocado,.sbul-hover-light=avocado:hover{color:#fff!important;background-color:#91BCA8!important}
+.sbul-light-avocado,.sbul-hover-light-avocado:hover{color:#fff!important;background-color:#91BCA8!important}
 .sbul-tech-blue,.sbul-hover-tech-blue:hover{color:#fff!important;background-color:#4A5082!important}
-
+.sbul-grey-blue,.sbul-hover-grey-blue:hover{color:#fff!important;background-color:#A9B7C0!important}
+.sbul-minty,.sbul-hover-minty:hover{color:#000!important;background-color:#C7D8C6!important}
+.sbul-light,.sbul-hover-light:hover{color:#fff!important;background-color:#EFD9C1!important}
+.sbul-powder,.sbul-hover-powder:hover{color:#fff!important;background-color:#CCCBC6!important}
 
 .sbul-grey,.sbul-hover-grey:hover,.sbul-gray,.sbul-hover-gray:hover{color:#000!important;background-color:#9e9e9e!important}
 .sbul-light-grey,.sbul-hover-light-grey:hover,.sbul-light-gray,.sbul-hover-light-gray:hover{color:#000!important;background-color:#f1f1f1!important}
