@@ -125,7 +125,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .sbul-opacity,.sbul-hover-opacity:hover{opacity:0.60}.sbul-opacity-off,.sbul-hover-opacity-off:hover{opacity:1}
 .sbul-opacity-max{opacity:0.25}.sbul-opacity-min{opacity:0.75}
 .sbul-greyscale-max,.sbul-grayscale-max,.sbul-hover-greyscale:hover,.sbul-hover-grayscale:hover{filter:grayscale(100%)}
-.sbul-greyscale,.sbul-grayscale{filter:grayscale(75%)}.sbul-greyscale-min,.sbul-grayscale-min{filter:grayscale(50%)}
+.sbul-greyscale,.sbul-grayscale{filter:grayscale(75%)}.sbul-greyscale-min,.sbul-grayscale-min{filter:grayscale(30%)}
 .sbul-sepia{filter:sepia(75%)}.sbul-sepia-max,.sbul-hover-sepia:hover{filter:sepia(100%)}.sbul-sepia-min{filter:sepia(50%)}
 .sbul-tiny{font-size:10px!important}.sbul-small{font-size:12px!important}.sbul-medium{font-size:15px!important}.sbul-large{font-size:18px!important}
 .sbul-xlarge{font-size:24px!important}.sbul-xxlarge{font-size:36px!important}.sbul-xxxlarge{font-size:48px!important}.sbul-jumbo{font-size:64px!important}
@@ -184,10 +184,11 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .sbul-powder,.sbul-hover-cloud:hover{color:#fff!important;background-color:#98878F!important}
 .sbul-powder,.sbul-hover-sunset:hover{color:#fff!important;background-color:#985E6D!important}
 
-.sbul-roomblue,.sbul-hover-roomblue:hover{color:#fff!important;background-color:#5e84c1!important}
+.sbul-roomblue,.sbul-hover-roomblue:hover{color:#fff!important;background-color:#5a6673!important}
 .sbul-wintergreen,.sbul-hover-wintergreen:hover{color:#fff!important;background-color:#35a060!important}
-.sbul-soulred,.sbul-hover-soulred:hover{color:#fff!important;background-color:#8e3b2f!important}
+.sbul-sattlebrown,.sbul-hover-sattlebrown:hover{color:#fff!important;background-color:#782729!important}
 .sbul-gracie,.sbul-hover-gracie:hover{color:#fff!important;background-color:#474747!important}
+.sbul-carpet,.sbul-hover-carpet:hover{color:#fff!important;background-color:#bfa081!important}
 
 
 
